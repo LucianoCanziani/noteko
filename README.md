@@ -1,7 +1,30 @@
-# Tauri + SvelteKit + TypeScript
+# Noteko
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+**Noteko** is an open-source desktop app to capture, structure, and evolve your ideas. 
 
-## Recommended IDE Setup
+It goes beyond a simple notepad—giving you the freedom of writing in a clean interface without any distractions from your thoughts.
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+Built with [Tauri 2.0](https://v2.tauri.app) and [Svelte](https://svelte.dev), it’s lightweight and secure.
+
+Soon...
+https://noteko.app
+
+---
+
+## ✨ Features
+
+- Write with structure: titles, subtitles, bullet points, separators
+- Export to `.html` or `.txt`
+- Track the files you use
+- Keyboard shortcuts
+- Minimal interface
+
+---
+
+## 🚀 Run from Source
+
+```bash
+git clone https://github.com/your-username/noteko.git
+cd noteko
+npm install
+npm run tauri dev
