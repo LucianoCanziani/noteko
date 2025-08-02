@@ -1,4 +1,3 @@
-// src/routes/+layout.ts
 import { browser } from '$app/environment';
 
 export const prerender = false;

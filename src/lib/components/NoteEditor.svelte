@@ -66,7 +66,7 @@
     pointer-events: none;
   }
 
-  /* Styling for content inside editor */
+  /* STYLES FOR THE CONTENT */
   .note_editor :global(h1) {
     font-size: 28px;
     font-weight: bold;
